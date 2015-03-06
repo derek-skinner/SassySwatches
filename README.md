@@ -6,17 +6,22 @@ Color library for the Sass css preprocessor. Currently featuring 200 unique colo
  [Full site with colors and variable names here](http://sassyswatch.es).
 
 
-Usage
+#Usage
 ------------------------------
 
-###1. Setting Up
+##1. Setting Up
 
 If your familiar with Sass, this should be a piece of cake. Make sure the main `sassyswatches.scss` file is imported at the very bottom of your `_main.scss` file so it will overwrite any similar color variables you may have in your project from other frameworks, etc.
 
     @import "/path/to/sassyswatches.scss"
+    
+    
+####1a. Optonal - Bower Install
+If your current project uses Bower, you can install Sassy Swatches by using the following command:
 
+    bower install sassy-swatches
 
-###2. Using the Colors
+##2. Using the Colors
 
 Now here's the fun part. If you want to use a color all you need to do is type in it's variable name. Sassy Swatches was built using memorable, real-world variable names for its colors like $Denim, $LawnGreen, $LightSalmonPink, etc.
 
