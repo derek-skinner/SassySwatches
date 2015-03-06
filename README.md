@@ -76,3 +76,7 @@ Changelog
 
 **v 1.0**        Sassy Swatches is released on Github.
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/derek-skinner/sassyswatches/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
