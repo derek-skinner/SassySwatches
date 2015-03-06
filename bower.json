@@ -1,0 +1,28 @@
+{
+  "name": "SassySwatches",
+  "version": "1.0.0",
+  "authors": [
+    "derek-skinner <derek@derekskinner.tv>"
+  ],
+  "description": "Sass Color Library with Real-World Variable Names",
+  "main": "SassySwatches/sassyswatches.scss",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "color",
+    "library",
+    "sass",
+    "color",
+    "variables"
+  ],
+  "license": "Creative Commons Attribution 4.0 International",
+  "homepage": "http://sassyswatch.es",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
