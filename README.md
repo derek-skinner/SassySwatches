@@ -1,4 +1,4 @@
-Sassy Swatches
+Sassy Swatches  - (http://sassyswatch.es)
 ===========
 
 Color library for the Sass css preprocessor. Currently featuring 200 unique colors with memorable real-world variable names.
