@@ -74,8 +74,14 @@ License
 
 Changelog
 ------------------------------
+**v1.1.0**         Brand Colors section is added with 50 colors from popular web brands
 
-**v 1.0**        Sassy Swatches is released on Github.
+**v1.0.3**         Fixed $Chartreuse variable name typo</p>
+**v1.0.2**         Fixed typo &amp; cleaned up code</p>
+**v1.0.1**         Fixed $Lemon variable typo</p>
+**v1.0.0**         Sassy Swatches project is released</p>
+
+**v1.0.0**        Sassy Swatches is released on Github.
 
 
 
