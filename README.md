@@ -1,7 +1,7 @@
 Sassy Swatches  - http://sassyswatch.es
 ===========
 
-Color library for the Sass css preprocessor. Currently featuring 200 unique colors with memorable real-world variable names.
+Color library for the Sass css preprocessor. Currently featuring over 200+ unique colors with memorable real-world variable names. Also featuring a "Brand Colors" section with 50 colors from popular web brands.
 
 <a href="https://twitter.com/sassyswatches" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @sassyswatches</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
