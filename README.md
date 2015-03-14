@@ -2,9 +2,7 @@ Sassy Swatches  - http://sassyswatch.es
 ===========
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/derek-skinner/sassyswatches/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-![Bower Badge](https://camo.githubusercontent.com/06c5d22b7908c0c4928071ac314e75c3da29d750/687474703a2f2f62656e7363687761727a2e6769746875622e696f2f626f7765722d6261646765732f62616467654032782e706e67)
-
-![Analytics](https://ga-beacon.appspot.com/UA-60480589-1/SassySwatches/README.md)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-60480589-1/SassySwatches/README.md)](https://github.com/igrigorik/ga-beacon)
 
 Color library for the Sass css preprocessor. Currently featuring over 200+ unique colors with memorable real-world variable names. Also featuring a "Brand Colors" section with 50 colors from popular web brands.
 
