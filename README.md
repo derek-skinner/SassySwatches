@@ -1,6 +1,8 @@
 Sassy Swatches  - http://sassyswatch.es
 ===========
 
+[![Join the chat at https://gitter.im/derek-skinner/SassySwatches](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/derek-skinner/SassySwatches?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/derek-skinner/sassyswatches/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 [![Analytics](https://ga-beacon.appspot.com/UA-60480589-1/SassySwatches/README.md)](https://github.com/igrigorik/ga-beacon)
 
